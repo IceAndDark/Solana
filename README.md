@@ -1,2 +1,2 @@
 # Solana
-sample
+High speed blockchain
